@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">DistantTester2tr</string>
+    <string name="title_activity_login">Sign in</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="register_question">New user? Want to register?</string>
+    <string name="register_button">Register new user</string>
+    <string name="prompt_register_email">Input your email here</string>
+    <string name="prompt_password_register">Input your password here</string>
+    <string name="default_spinner_values">test1; test2</string>
+    <string name="register_name">Input your name</string>
+    <string name="register_surname">Input your surname</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="navbar_settings">Settings</string>
+    <string name="navbar_tests">Tests</string>
+    <string name="navbar_profile">Profile</string>
+    <string name="navbar_users">Users</string>
+    <string name="title_activity_main_test_list_activity">main_test_list_activity</string>
+    <string name="test_creation_testName">Name the Test</string>
+    <string name="test_creating_description" >Describe your test</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/outline_face_black_18dp"
+            android:title="@string/navbar_profile" />
+        <item
+            android:id="@+id/nav_users"
+            android:icon="@drawable/outline_group_black_18dp"
+            android:title="@string/navbar_users" />
+        <item
+            android:id="@+id/nav_tests"
+            android:icon="@drawable/outline_list_alt_black_18dp"
+            android:title="@string/navbar_tests" />
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/outline_settings_black_18dp"
+            android:title="@string/navbar_settings" />
+    </group>
+
+</menu>
